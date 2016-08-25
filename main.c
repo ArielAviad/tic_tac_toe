@@ -1,5 +1,5 @@
-#include "tic_tac_too.h"
+#include "tic_tac_toe.h"
 
 int main() {
-    return run_tic_tac_to();
+    return run_tic_tac_toe();
 }
